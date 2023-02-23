@@ -6,3 +6,4 @@
 * 0x02. ES6 classes
 * 0x00. Pascal's Triangle
 * 0x03-ES6_data_manipulation
+* 0x05-Node_JS_basic 
