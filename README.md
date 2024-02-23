@@ -1,5 +1,7 @@
 # alx-backend-javascript
-     assignment 
+Solutions to Backend specialization projects
+
+
 
 * 0x00. ES6 Basics
 * 0x01. ES6 Promises
